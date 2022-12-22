@@ -1,1 +1,2 @@
 print("gym")
+print("happy")
